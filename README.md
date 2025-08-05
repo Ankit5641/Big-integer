@@ -126,4 +126,4 @@ This project is open-source and free to use for educational and personal purpose
 🙌 Acknowledgment
 This project is inspired by the need to handle large integers in competitive programming and algorithmic challenges.
 
-Developed by Gatea David and customized for real-world usage.
+
